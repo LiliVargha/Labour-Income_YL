@@ -9,8 +9,8 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 ### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by 2 clusters and maximum values
 ![Image](https://user-images.githubusercontent.com/68189671/217785920-4581c8a6-f2b5-4398-b364-67ab416d3598.jpg)
 
-[Download FIGURE 1]([https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTG.jpg]
-[Download FIGURE 2](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTGtiles.jpg)
+[Download FIGURE 1](https://github.com/LiliVargha/Labour-Income_YL/blob/main/ClusterYL.jpg)
+[Download FIGURE 2](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLclusterViz.jpg)
 
 Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
 
@@ -29,7 +29,7 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 
 ![Image](https://user-images.githubusercontent.com/68189671/217782623-4506798e-7341-4f95-b84a-edbcf8892971.jpg)
 
-[Download FIGURE 3](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
+[Download FIGURE 3](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLViz.jpg)
 
 ### GENDER SPECIFIC LABOUR INCOME clusters and visualizations are found in repository: xxx(link)
 
