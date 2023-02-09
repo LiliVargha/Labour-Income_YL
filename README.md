@@ -27,8 +27,8 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 ## Data source
 1. [Global NTA results](https://www.ntaccounts.org/web/nta/show/Browse%20database) (Lee and Mason 2011)
 2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
-3. [Counting Women's Work](https://www.countingwomenswork.org/data)(Counting Women's Work 2022)
-4. [United Nations, DESA, Population Division: World Population Prospects 2022](https://population.un.org/wpp/) and [wpp2022 R package](https://github.com/PPgp/wpp2022)
+3. [Counting Women's Work](https://www.countingwomenswork.org/data) (Counting Women's Work 2022)
+4. [World Population Prospects 2022](https://population.un.org/wpp/) (United Nations, DESA, Population Division: WPP 2022) and [wpp2022 R package](https://github.com/PPgp/wpp2022)
 
 ## Visualizing country differences to the average labour income
 Lili Vargha, Timothy Miller
