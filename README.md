@@ -43,7 +43,7 @@ Lili Vargha, Timothy Miller
 [Download FIGURE 5](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLdiftiles_o.jpg)
 
 ## Replication files
-The files for replication is [cluster.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/cluster.R) for total labour income age profiles and [YL_byGender.R](link) for gender specific labour income age profiles. The files contain explanation, all the different visualizations and the clustering.
+The files for replication is [cluster.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/cluster.R) for total labour income age profiles and [YL_byGender.R](link) for gender specific labour income age profiles. The files contain explanations, different visualizations and types of clustering.
 
 ## Other versions of visualizing Labour Income (YL) age profiles
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
