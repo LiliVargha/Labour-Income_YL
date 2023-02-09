@@ -34,8 +34,8 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 3. [Counting Women's Work](https://www.countingwomenswork.org/data) (Counting Women's Work 2022)
 4. [World Population Prospects 2022](https://population.un.org/wpp/) (United Nations, DESA, Population Division: WPP 2022) and [wpp2022 R package](https://github.com/PPgp/wpp2022)
 
-## Visualizing country differences to the average labour income
-Lili Vargha, Timothy Miller
+## Visualizing country differences to the average age specific labour income
+Lili Vargha, Timothy Miller: YL visualization presented at NTA14.
 
 ### FIGURE 5: Country specific differences to the AVERAGE age specific labour income
 ![Image](https://user-images.githubusercontent.com/68189671/217836622-d93198e6-a023-49e9-a974-19a054af3033.jpg)
