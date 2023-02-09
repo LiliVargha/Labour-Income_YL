@@ -4,6 +4,8 @@ This repository contains the replication file for clustering Labour Income (YL) 
 
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
+## Labour income by age in 77 countries
+
 ### FIGURE 1: Labour Income age profile clusters (N=77, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217822610-54cea992-75cc-4aea-8e8b-297c8cf04626.jpg)
 ### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by 2 clusters and maximum values
@@ -13,6 +15,8 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 [Download FIGURE 2](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLclusterViz.jpg)
 
 Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
+
+## Labour income by gender and age in 39 countries
 
 ### FIGURE 3: Gender specific Labour Income age profile clusters (N=39, 2009-2018)
 ![Image](https://user-images.githubusercontent.com/68189671/217822610-54cea992-75cc-4aea-8e8b-297c8cf04626.jpg)
