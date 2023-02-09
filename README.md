@@ -28,7 +28,7 @@ Lili Vargha, Timothy Miller
 
 
 ## Replication files
-The file for replication is [cluster.R](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VIZTG.R). The file contains explanation, all the different visualizations and the clustering.
+The file for replication is [cluster.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/cluster.R). The file contains explanation, all the different visualizations and the clustering.
 
 ## Other versions of Labour Income age profiles
 
