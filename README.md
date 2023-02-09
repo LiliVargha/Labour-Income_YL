@@ -25,9 +25,9 @@ The file for replication is [cluster.R](https://github.com/LiliVargha/Public-Tra
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
-### FIGURE 3: Labour Income by age in 77 countries (2002-2016) ordered according to xxx
+### FIGURE 3: Labour Income by age in 77 countries (2002-2016) ordered according to the age of maximum
 
-![Image](https://user-images.githubusercontent.com/68189671/217633434-0c633b40-b66e-4968-b10b-1bb50b30f145.jpg)
+![Image](https://user-images.githubusercontent.com/68189671/217782623-4506798e-7341-4f95-b84a-edbcf8892971.jpg)
 
 [Download FIGURE 3](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VizTG.jpg)
 
