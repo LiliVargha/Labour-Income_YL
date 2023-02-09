@@ -2,9 +2,8 @@
 
 This repository contains the replication file for clustering Labour Income (YL) age profiles for 77 countries and gender specific labour income for 39 countries, as well as visualizing the results using line plots and heatmaps.
 
-Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
-
 ## Labour income by age in 77 countries
+Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
 ### FIGURE 1: Labour Income age profile clusters (N=77, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217822610-54cea992-75cc-4aea-8e8b-297c8cf04626.jpg)
@@ -17,6 +16,7 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
 
 ## Labour income by gender and age in 39 countries
+Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
 ### FIGURE 3: Gender specific Labour Income age profile clusters (N=39, 2009-2018)
 ![Image](https://user-images.githubusercontent.com/68189671/217822610-54cea992-75cc-4aea-8e8b-297c8cf04626.jpg)
@@ -46,7 +46,6 @@ Lili Vargha, Timothy Miller
 The files for replication is [cluster.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/cluster.R) for total labour income age profiles and [YL_byGender.R](link) for gender specific labour income age profiles. The files contain explanation, all the different visualizations and the clustering.
 
 ## Other versions of visualizing Labour Income (YL) age profiles
-
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
 ### FIGURE 6: Labour income by age in 77 countries (2002-2016) ordered according to the age of maximum
