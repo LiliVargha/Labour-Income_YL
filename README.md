@@ -58,4 +58,4 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 ## Future versions will
 - Include newest NTA data.
 - Use different ordering (for example by continents).
-- Calculate and visualize gender and age specific differences to average labour income and average age specific labour income
+- Calculate and visualize gender and age specific differences to average labour income and age specific average labour income
