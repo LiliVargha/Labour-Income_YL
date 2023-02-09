@@ -22,7 +22,7 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 Lili Vargha, Timothy Miller
 
 ### FIGURE 3: Country specific differences to the AVERAGE age specific labour income
-![Image](https://user-images.githubusercontent.com/68189671/217832830-bbd25f7f-af90-4ec8-a31e-c8b6b1d8f4f7.jpg)
+![Image](https://user-images.githubusercontent.com/68189671/217836622-d93198e6-a023-49e9-a974-19a054af3033.jpg)
 
 [Download FIGURE 4](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLdiftiles_o.jpg)
 
