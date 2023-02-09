@@ -6,13 +6,13 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 ### FIGURE 1: Labour Income age profile clusters (N=77, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217647319-f69bb149-8f31-4e6b-b0da-546720cd6ed4.jpg)
-### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by clusters
-![Image](https://user-images.githubusercontent.com/68189671/217647508-ee6cad5b-1d2d-465d-9f33-a14c6cab9b5f.jpg)
+### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by 2 clusters
+![Image](https://user-images.githubusercontent.com/68189671/217784213-28a91161-e774-4820-921e-ed6265cf03fa.jpg)
 
 [Download FIGURE 1](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTG.jpg)
 [Download FIGURE 2](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTGtiles.jpg)
 
-Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
+Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
 
 ## Data source
 1. [Global NTA results](https://www.ntaccounts.org/web/nta/show/Browse%20database) (Lee and Mason 2011)
