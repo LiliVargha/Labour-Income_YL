@@ -1,4 +1,4 @@
-# Labour income age profile clusters and visualization, total (77 countries) and gender specific (39 countries)
+# Labour income by gender and age
 
 This repository contains the replication file for clustering Labour Income (YL) age profiles for 77 countries and gender specific labour income for 39 countries, as well as visualizing the results using line plots and heatmaps.
 
