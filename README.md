@@ -18,6 +18,15 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 1. [Global NTA results](https://www.ntaccounts.org/web/nta/show/Browse%20database) (Lee and Mason 2011)
 2. [European AGENTA Project](http://dataexplorer.wittgensteincentre.org/nta/) (Istenič et al. 2019)
 
+## Visualizing country differences to the average labour income
+Lili Vargha, Timothy Miller
+
+### FIGURE 3: Country specific differences to the AVERAGE age specific labour income
+![Image](https://user-images.githubusercontent.com/68189671/217832830-bbd25f7f-af90-4ec8-a31e-c8b6b1d8f4f7.jpg)
+
+[Download FIGURE 4](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLdiftiles_o.jpg)
+
+
 ## Replication files
 The file for replication is [cluster.R](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/VIZTG.R). The file contains explanation, all the different visualizations and the clustering.
 
@@ -25,11 +34,11 @@ The file for replication is [cluster.R](https://github.com/LiliVargha/Public-Tra
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
-### FIGURE 3: Labour income by age in 77 countries (2002-2016) ordered according to the age of maximum
+### FIGURE 4: Labour income by age in 77 countries (2002-2016) ordered according to the age of maximum
 
 ![Image](https://user-images.githubusercontent.com/68189671/217782623-4506798e-7341-4f95-b84a-edbcf8892971.jpg)
 
-[Download FIGURE 3](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLViz.jpg)
+[Download FIGURE 4](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLViz.jpg)
 
 ### GENDER SPECIFIC LABOUR INCOME clusters and visualizations are found in repository: xxx(link)
 
