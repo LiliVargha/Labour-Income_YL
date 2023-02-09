@@ -6,8 +6,8 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 ### FIGURE 1: Labour Income age profile clusters (N=77, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217647319-f69bb149-8f31-4e6b-b0da-546720cd6ed4.jpg)
-### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by 2 clusters
-![Image](https://user-images.githubusercontent.com/68189671/217784213-28a91161-e774-4820-921e-ed6265cf03fa.jpg)
+### FIGURE 2: Labour Income by age in 77 countries (2002-2016) by 2 clusters and maximum values
+![Image](https://user-images.githubusercontent.com/68189671/217785920-4581c8a6-f2b5-4398-b364-67ab416d3598.jpg)
 
 [Download FIGURE 1](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTG.jpg)
 [Download FIGURE 2](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTGtiles.jpg)
