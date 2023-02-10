@@ -1,9 +1,8 @@
 # Labour income by gender and age
 
-This repository contains the replication file for clustering Labour Income (YL) age profiles for 77 countries and gender specific labour income for 39 countries, as well as visualizing the results using line plots and heatmaps.
+This repository contains the replication files for clustering Labour Income (YL) age profiles for 77 countries and gender specific labour income for 39 countries, as well as visualizing the results using line plots and heatmaps.
 
 ## Labour income by age in 77 countries
-Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts)
 
 ### FIGURE 1: Labour Income age profile clusters (N=77, 2002-2016)
 ![Image](https://user-images.githubusercontent.com/68189671/217822610-54cea992-75cc-4aea-8e8b-297c8cf04626.jpg)
