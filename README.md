@@ -12,7 +12,7 @@ This repository contains the replication files for clustering Labour Income (YL)
 [Download FIGURE 1](https://github.com/LiliVargha/Labour-Income_YL/blob/main/ClusterYL.jpg)
 [Download FIGURE 2](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLclusterViz.jpg)
 
-Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
+Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-85+. The values at each age are normalized using the average labour income of age 30-49. Data is from 2002-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. Countries in the first cluster are on the bottom of the figure. For more details on the clustering see the presentation and the replication file. For more details on the data see documentation of the data sources.
 
 ## Visualizing country differences to the average age specific labour income
 
@@ -31,7 +31,7 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 [Download FIGURE 4](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLbygenderCluster.jpg)
 [Download FIGURE 5](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLbygenderVizCLUSTER.jpg)
 
-Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-90+. The values at each age are normalized using the average total labour income of age 30-49. Data is from 2009-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering. For more details on this see the presentation and the replication file. For more details on the data see documentation of the data sources.
+Labour income in National Transfer Accounts includes wages, most of mixed income, as well as all types of labour-related taxes. The values are averages calculated using National Accounts, administrative and survey data in the different countries for ages 0-90+. The values at each age are normalized using the average total labour income of age 30-49. Data is from 2009-2016, the most recent country estimations. Clustering is done using a data driven way: using Ward's clustering.  Countries in the first cluster are on the bottom of the figure. For more details on the clustering see the presentation and the replication file. For more details on the data see documentation of the data sources.
 
 
 ## Other versions of visualizing Labour Income (YL) age profiles
