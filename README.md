@@ -33,10 +33,7 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 
 [Download FIGURE 5](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLdiftiles_o.jpg)
 
-
-
 ## Other versions of visualizing Labour Income (YL) age profiles
-Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.
 
 ### FIGURE 6: Labour income by age in 77 countries (2002-2016) ordered according to the age of maximum
 
