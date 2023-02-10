@@ -35,7 +35,6 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 4. [World Population Prospects 2022](https://population.un.org/wpp/) (United Nations, DESA, Population Division: WPP 2022) and [wpp2022 R package](https://github.com/PPgp/wpp2022)
 
 ## Visualizing country differences to the average age specific labour income
-Lili Vargha, Timothy Miller: YL visualization presented at NTA14.
 
 ### FIGURE 5: Country specific differences to the AVERAGE age specific labour income
 ![Image](https://user-images.githubusercontent.com/68189671/217836622-d93198e6-a023-49e9-a974-19a054af3033.jpg)
@@ -54,6 +53,12 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 
 [Download FIGURE 6](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLViz.jpg)
 
+## References
+Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts), 15 February 2023
+
+Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.  
+
+Lili Vargha, Timothy Miller: Visualizing country differences to the average age specific labour income, YL visualization presented at NTA14 Paris.
 
 ## Future versions will
 - Include newest NTA data.
