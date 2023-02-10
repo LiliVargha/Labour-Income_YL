@@ -48,6 +48,11 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 
 [Download FIGURE 7](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLbygenderViz.jpg)
 
+### FIGURE 8: Difference between age specific YL of women/men & age specific 39 country average YL of women/men
+
+![Image](https://user-images.githubusercontent.com/68189671/218082942-0b07d94b-89f9-4d5c-89c7-c089bfdf1b29.jpg)
+
+[Download FIGURE 8](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLDIFbygenderViz.jpg)
 
 ## Data source
 1. [Global NTA results](https://www.ntaccounts.org/web/nta/show/Browse%20database) (Lee and Mason 2011)
