@@ -42,7 +42,7 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 
 [Download FIGURE 6](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLViz.jpg)
 
-### FIGURE 7: Labour income by gender and age in 39 countries (2009-2018) ordered according to the age of maximum
+### FIGURE 7: Labour income by gender and age in 39 countries (2009-2018) ordered according to the maximum YL of men
 
 ![Image](https://user-images.githubusercontent.com/68189671/218069481-cc0bc883-f16f-400d-bbbb-918957958be1.jpg)
 
