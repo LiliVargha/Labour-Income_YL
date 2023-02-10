@@ -56,7 +56,7 @@ Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. 
 
 Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [Intergenerational transfers around the world: introducing a new visualization tool](https://www.ntaccounts.org/web/nta/show/Working%20Papers) NTA Working Papers, 2022.  
 
-Lili Vargha, Timothy Miller: Visualizing country differences to the average age specific labour income, YL visualization presented at NTA14 Paris.
+Lili Vargha, Timothy Miller: Visualizing country differences to the average age specific labour income, Visualization presented at NTA14 Paris.
 
 ## Future versions will
 - Include newest NTA data.
