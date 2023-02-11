@@ -54,6 +54,8 @@ Labour income in National Transfer Accounts includes wages, most of mixed income
 
 [Download FIGURE 8](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YLDIFbygenderViz.jpg)
 
+## Labour income gender gap by age in 39 countries
+
 ![Image](https://user-images.githubusercontent.com/68189671/218196706-d27a9abd-f4c6-440e-bc07-048a4fd8047f.jpg)
 
 ## Data source
